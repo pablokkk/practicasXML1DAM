@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<pedido id="745573">
+    <cliente>Francisco Romero</cliente>
+    <consola>
+        <articulo cantidad='1'>PlayStatiton 5</articulo>
+        <articulo cantidad='5'>PlayStatiton 5</articulo>
+        <articulo cantidad='1'>PlayStatiton 5</articulo>
+    </consola>
+    <Entrega>
+         <calle>Huerta</calle>
+         <piso>1</piso>
+         <numero>3</numero>
+         <letra>B</letra>
+         <Fecha>19-1-2023</Fecha>
+    </Entrega>
+</pedido>
+
