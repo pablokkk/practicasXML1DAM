@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<Horario>
+         
+    <Dia>
+        <dia id="lunes">
+            <asignatura hora="8:00">Sistemas informaticos</asignatura>
+            <asignatura hora="9:00">Bases de Datos</asignatura>
+            <asignatura hora="10:00">Programación</asignatura>
+            <asignatura hora="11:30">FOL</asignatura>
+            <asignatura hora="12:30">Lenguaje de marcas</asignatura>
+            <asignatura hora="13:30">Entornos</asignatura>
+        </dia>
+        <dia id="martes">
+            <asignatura hora="8:00">Sistemas informaticos</asignatura>
+            <asignatura hora="9:00">FOL</asignatura>
+            <asignatura hora="10:00">FOL</asignatura>
+            <asignatura hora="11:30">Bases de datos</asignatura>
+            <asignatura hora="12:30">Bases de datos</asignatura>
+            <asignatura hora="13:30">Sistemas informaticos</asignatura>
+        </dia>
+        <dia id="miercoles">
+            <asignatura hora="8:00">Programación</asignatura>
+            <asignatura hora="9:00">Programación</asignatura>
+            <asignatura hora="10:00">Lenguaje de marcas</asignatura>
+            <asignatura hora="11:30">Lenguaje de marcas</asignatura>
+            <asignatura hora="12:30">Bases de datos</asignatura>
+            <asignatura hora="13:30">Sistemas informaticos</asignatura>
+        </dia>
+        <dia id="jueves">
+            <asignatura hora="8:00">Programación</asignatura>
+            <asignatura hora="9:00">Programación</asignatura>
+            <asignatura hora="10:00">Programación</asignatura>
+            <asignatura hora="11:30">Programación</asignatura>
+            <asignatura hora="12:30">Entornos</asignatura>
+            <asignatura hora="13:30">Entornos</asignatura>
+        </dia>
+        <dia id="viernes">
+            <asignatura hora="8:00">Programación</asignatura>
+            <asignatura hora="9:00">Programación</asignatura>
+            <asignatura hora="10:00">Lenguaje de marcas</asignatura>
+            <asignatura hora="11:30">Bases de Datos</asignatura>
+            <asignatura hora="12:30">Bases de Datos</asignatura>
+            <asignatura hora="13:30">Sistemas informaticos</asignatura>
+        </dia>
+    </Dia>
+    <modulos>
+        <modulo>Lenguaje de Marcas</modulo>
+        <hora dia="lunes">9:00</hora>
+        <hora dia="miercoles">10:00</hora>
+         <hora dia="miercoles">11:30</hora>
+    </modulos>
+</Horario>
+
